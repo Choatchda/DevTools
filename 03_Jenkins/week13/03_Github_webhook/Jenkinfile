@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        // Define variablesasdasdsdfsdfsdfsdsfsdfsdfsdfsdfsdf
+        // Define variablesasdasdsdfsdfsdfsdsfsdfsdfsdfsdfsdfdfgdfgdfg
         DOCKER_IMAGE       = 'choatchda'
         DOCKER_CREDENTIALS = credentials('dockerhub')
     }

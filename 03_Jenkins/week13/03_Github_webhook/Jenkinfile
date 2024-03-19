@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        // Define variablesasdasdsdfsdfsdfs
-        DOCKER_IMAGE       = 'choatchda/fastapi-webhook:latest'
+        // Define variablesasdasdsdfsdfsdfsdsfsdfsdfsdfsdfsdf
+        DOCKER_IMAGE       = 'choatchda'
         DOCKER_CREDENTIALS = credentials('dockerhub')
     }
 
